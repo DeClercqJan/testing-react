@@ -1,6 +1,6 @@
 nothing to say really
 
-# ORIGINAL README FILE BeLOW
+# ORIGINAL README FILE BELOW
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
